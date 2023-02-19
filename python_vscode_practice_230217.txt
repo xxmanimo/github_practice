@@ -2,3 +2,4 @@ print("hello world")
 print("아무것도 기억이 안나")
 3+6
 print("룰루")
+4+10
